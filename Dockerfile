@@ -3,7 +3,7 @@
 # VERSION 0.0.1
 
 FROM debian:latest
-MAINTAINER David Staron <https://github.com/DavidStaron>
+MAINTAINER notDavid <https://github.com/notDavid>
 
 #ffmpeg build info: http://trac.ffmpeg.org/wiki/CompilationGuide/Ubuntu
 
